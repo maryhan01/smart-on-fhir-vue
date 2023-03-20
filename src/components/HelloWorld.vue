@@ -75,7 +75,7 @@ export default {
       patientdata: {},
       clientId: "b9e37156-fefd-4798-96fd-409776eff79b", // Replace with your client id
       redirect: import.meta.env.PROD
-        ? "https://lucid-wozniak-940eae.netlify.app"
+        ? "epictest.youngmihan.repl.co/app.html"
         : "http://localhost:3000",
     };
   },
